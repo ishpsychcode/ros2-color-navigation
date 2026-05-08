@@ -74,7 +74,7 @@ Move robot toward object when aligned
 Discuss recovery and stopping strategies
 
 ---
-
+```
 # Installation and Setup
 
 ## 1. Install ROS2 Humble
