@@ -350,5 +350,3 @@ The robot successfully:
 # Author
 
 Name: Ishita Yadav
-
-Date: May 2026
