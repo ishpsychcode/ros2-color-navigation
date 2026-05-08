@@ -344,3 +344,11 @@ The robot successfully:
 - Kalman filter based tracking
 - Depth estimation using stereo vision
 - Integration with SLAM and autonomous navigation stack
+
+---
+
+# Author
+
+Name: Ishita Yadav
+
+Date: May 2026
